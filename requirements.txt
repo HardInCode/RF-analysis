@@ -3,4 +3,4 @@ scipy>=1.7.0
 matplotlib>=3.4.0
 h5py>=3.1.0
 tqdm>=4.60.0
-streamlit>=1.10.0
+streamlit>=1.28.0
